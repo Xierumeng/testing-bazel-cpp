@@ -1,5 +1,8 @@
 # IDEs
 .vscode/
 
+# Bazel
+bazel*/
+
 # Logging
 logs/
